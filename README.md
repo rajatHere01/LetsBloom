@@ -7,5 +7,8 @@ Base url: http://localhost:7000/
 
 1. To POST a book and its details.
    You need to use api http://localhost:7000/books and create a json object with the deatils of the book.
+   sample post request:
+   ![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/4fcf40ff-e3d5-4215-b241-d3e27e14d043)
+
    
    
