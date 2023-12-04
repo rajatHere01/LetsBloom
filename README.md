@@ -32,6 +32,9 @@ Base url: http://localhost:7000/
    You need to use api http://localhost:7000/books
    sample GET request:
 
+   ![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/e712b1e3-43c8-4fdd-8575-db25087c619a)
+
+
    
      
 
