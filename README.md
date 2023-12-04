@@ -19,13 +19,21 @@ Base url: http://localhost:7000/
    You need to use api http://localhost:7000/books/{id} and update the json object with the new details of the book.
    sample PUT request:
 
-   Before: ![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/4fdda3de-5c6e-471d-b530-8b6c47d99aa8)
+   Before:
+    ![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/4fdda3de-5c6e-471d-b530-8b6c47d99aa8)
 
    for example changing the genre of the book:
   ![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/6c8dc9d1-b99f-4b93-8e57-82cd9331f345)
    
-   After:![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/ca0f61ea-9e8e-40ca-b990-ee5c720a6b4d)
+   After:
+   ![image](https://github.com/rajatHere01/LetsBloom/assets/90706207/ca0f61ea-9e8e-40ca-b990-ee5c720a6b4d)
+   
+3. To retrieve all the books present in the library  
+   You need to use api http://localhost:7000/books
+   sample GET request:
 
+   
+     
 
 
    
